@@ -1,0 +1,150 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,500;1,400&display=swap");
+
+.final {
+  display: flex;
+  flex: 1;
+  height: 60vh;
+  width: auto;
+  margin-bottom: 10px;
+  margin-left: 180px;
+  margin-right: 180px;
+  flex-direction: row;
+}
+
+.semi {
+  display: flex;
+  flex: 1;
+  height: 60vh;
+  width: auto;
+
+  flex-direction: column;
+}
+.half {
+  display: flex;
+  flex: 1;
+  height: 60vh;
+  width: auto;
+
+  flex-direction: column;
+}
+.auto {
+  display: flex;
+  flex: 1;
+  height: 60vh;
+  width: auto;
+
+  flex-direction: column;
+}
+
+.ter {
+  display: flex;
+  flex: 1;
+  height: 30vh;
+  width: auto;
+  background-image: url("https://www.planetware.com/wpimages/2020/02/sweden-in-pictures-beautiful-places-to-photograph.jpg");
+  background-size: cover;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+.min {
+  display: flex;
+  flex: 1;
+  height: 30vh;
+  width: auto;
+}
+
+.nat {
+  display: flex;
+  flex: 1;
+  height: 30vh;
+  width: auto;
+  background-image: url("https://2.bp.blogspot.com/-L6ffiBmuwAo/VstTpCaK-2I/AAAAAAAADps/R3GGxteSALI/s1600/cinque_terre-2560x1600.jpg");
+  background-size: cover;
+  margin-bottom: 10px;
+  margin-right: 20px;
+}
+.te {
+  display: flex;
+  flex: 1;
+  height: 30vh;
+  width: auto;
+}
+
+.phy {
+  display: flex;
+  flex: 1;
+  height: 30vh;
+  width: auto;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF-GmmREnLCTUmO7BvRoowo0rahyBctd4b-g&usqp=CAU");
+  background-size: cover;
+  margin-bottom: 10px;
+}
+.sic {
+  display: flex;
+  flex: 1;
+  height: 30vh;
+  width: auto;
+}
+
+.shape {
+  display: flex;
+  flex: 1;
+  height: 20vh;
+  width: auto;
+  background-image: url("https://img.dunyanews.tv/news/2019/April/04-18-19/news_big_images/487627_68791520.jpg");
+  border-radius: 5px;
+  margin-right: 3px;
+  background-size: cover;
+}
+.equi {
+  display: flex;
+  flex: 1;
+  height: 20vh;
+  width: auto;
+  background-image: url("https://wallpaperaccess.com/full/1636513.jpg");
+  border-radius: 5px;
+  margin-right: 15px;
+  background-size: cover;
+}
+
+.ty {
+  display: flex;
+  flex: 1;
+  height: 20vh;
+  width: auto;
+  background-image: url("https://assets3.thrillist.com/v1/image/2875152/1200x630/flatten;crop_down;webp=auto;jpeg_quality=70");
+  border-radius: 5px;
+  margin-right: 3px;
+  background-size: cover;
+}
+
+.hyp {
+  display: flex;
+  flex: 1;
+  height: 20vh;
+  width: auto;
+  background-image: url("https://image.jimcdn.com/app/cms/image/transf/dimension=1920x400:format=jpg/path/sa6549607c78f5c11/image/i1de2336623170791/version/1583575902/image.jpg");
+  border-radius: 5px;
+  margin-right: 15px;
+  background-size: cover;
+}
+.dol {
+  display: flex;
+  flex: 1;
+  height: 20vh;
+  width: auto;
+  background-image: url("https://images.unsplash.com/photo-1623001468263-a77523ee14ed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmVhdXRpZnVsJTIwY2l0aWVzfGVufDB8fDB8fA%3D%3D&w=1000&q=80");
+  border-radius: 5px;
+  margin-right: 3px;
+  background-size: cover;
+}
+.by {
+  display: flex;
+  flex: 1;
+  height: 20vh;
+  width: auto;
+  background-image: url("https://h6s5v4p8.rocketcdn.me/wp-content/uploads/2020/02/Rio-most-beuatiful-cities-in-the-world.jpg");
+  border-radius: 5px;
+  background-size: cover;
+}

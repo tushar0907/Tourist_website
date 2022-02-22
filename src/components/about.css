@@ -1,0 +1,67 @@
+.us {
+  display: flex;
+  flex: 1;
+  height: 120vh;
+  width: 90%;
+  margin-left: 90px;
+  flex-direction: column;
+}
+.qualite {
+  display: flex;
+  flex: 0.2;
+  height: 10vh;
+  width: auto;
+
+  font-family: "ubuntu", monospace;
+  font-size: 28px;
+  font-weight: bold;
+  margin-left: 45%;
+}
+
+.tweak {
+  display: flex;
+  flex: 1;
+  height: 70vh;
+  width: auto;
+
+  flex-direction: row;
+}
+
+.ster {
+  display: flex;
+  flex: 1;
+  height: 50vh;
+  width: auto;
+  background-image: url("https://cdn.corporatefinanceinstitute.com/assets/home-office1.jpeg");
+  margin-top: 90px;
+  border-radius: 90%;
+}
+
+.iod {
+  display: flex;
+  flex: 1;
+  height: 70vh;
+  width: auto;
+
+  margin-top: 10px;
+}
+
+.numb {
+  display: flex;
+  flex: 1;
+  height: 20px;
+  width: auto;
+
+  margin-bottom: 10px;
+}
+
+.wead {
+  display: flex;
+  flex: 1;
+  height: 40vh;
+  width: auto;
+  background-image: url("https://content.fortune.com/wp-content/uploads/2021/07/office-workers-covid-e1627411075980.jpg");
+  flex-direction: column;
+  background-size: cover;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,229 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono&family=Nanum+Gothic:wght@800&family=Nunito&family=Ubuntu:ital,wght@0,500;1,400&display=swap");
+
+.inspire {
+  display: flex;
+  flex: 1;
+  height: 60vh;
+  width: 70%;
+  margin-left: 15%;
+  margin-top: 10px;
+}
+
+.block {
+  display: flex;
+  flex: 1;
+  height: 60vh;
+  width: 100%;
+  background-image: url("http://www.studentuniverse.com/blog/wp-content/uploads/2014/04/Santorini-Greece.jpg");
+  background-size: cover;
+  border-radius: 10px;
+  margin-right: 5px;
+  font-family: "JetBrains Mono", monospace;
+  color: white;
+  align-items: flex-end;
+}
+.blex {
+  display: flex;
+  flex: 1;
+  height: 60vh;
+  width: 100%;
+  background-color: white;
+  flex-direction: column;
+}
+
+.hori {
+  display: flex;
+  flex: 1;
+  height: 30vh;
+  width: 100%;
+}
+.ro {
+  display: flex;
+  flex: 1;
+  height: 30vh;
+  width: 100%;
+}
+
+.parx {
+  display: flex;
+  flex: 1;
+  height: 30vh;
+  width: 100%;
+  background-image: url("https://globalgrasshopper.com/wp-content/uploads/2020/06/Top-10-of-the-most-beautiful-places-to-visit-in-Bhutan.jpg");
+  background-size: cover;
+  margin-right: 5px;
+  overflow: hidden;
+  border-radius: 10px;
+  font-family: "JetBrains", monospace;
+  color: white;
+  align-items: flex-end;
+}
+
+.perr {
+  display: flex;
+  flex: 1;
+  height: 30vh;
+  width: 100%;
+  background-image: url("https://www.busytourist.com/wp-content/uploads/2019/06/Yellowstone-National-Park.jpg");
+  background-size: cover;
+  border-radius: 10px;
+  font-family: "JetBrains", monospace;
+  color: white;
+  align-items: flex-end;
+}
+
+.holder {
+  display: flex;
+  flex: 1;
+  height: 30vh;
+  width: 100%;
+  background-image: url("https://www.informationpalace.com/wp-content/uploads/2021/01/1p-min-25.jpg");
+  background-size: cover;
+  border-radius: 10px;
+  font-family: "JetBrains", monospace;
+  color: white;
+  align-items: flex-end;
+}
+
+.handle {
+  display: flex;
+  flex: 1;
+  height: 30vh;
+  width: 100%;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe3M0z8vuTq10tRxFTOQHaWE1i63u8kDucP2udigrhvtQRWOQWaFni1EkFHm3o_rTba2Q&usqp=CAU");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-right: 5px;
+  border-radius: 10px;
+  font-family: "JetBrains", monospace;
+  color: white;
+  align-items: flex-end;
+}
+
+.title {
+  display: flex;
+  flex: 1;
+  height: 70vh;
+  width: 70%;
+  margin-left: 15%;
+
+  flex-direction: column;
+}
+.spell {
+  display: flex;
+  flex: 0.5;
+  height: 8vh;
+  width: 100%;
+  background-color: white;
+}
+.area {
+  display: flex;
+  flex: 2;
+  height: 62vh;
+  width: 100%;
+
+  flex-direction: row;
+}
+
+.inke {
+  display: flex;
+  flex: 1;
+  height: 50vh;
+  width: 25%;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-right: 5px;
+  border: 1px solid black;
+  font-family: "JetBrains", monospace;
+  color: black;
+}
+.spell {
+  font-family: "JetBrains", monospace;
+  color: rgb(10, 8, 8);
+  font-size: 28px;
+  font-weight: bold;
+  margin-top: 5px;
+}
+.port {
+  display: flex;
+  flex: 1;
+  height: 48vh;
+  width: 60%;
+  margin-left: 20%;
+
+  flex-direction: column;
+}
+
+.value {
+  display: flex;
+  flex: 0.4;
+  height: 10vh;
+  width: 100%;
+  background-color: white;
+  font-family: "JetBrains", monospace;
+  color: black;
+  font-size: 28px;
+}
+
+.longen {
+  display: flex;
+  flex: 2;
+  height: 37vh;
+  width: 100%;
+  margin-left: -20px;
+}
+
+.dirwes {
+  display: flex;
+  flex: 1;
+  height: 35vh;
+  width: 100%;
+
+  border: 1px solid black;
+  margin-top: 26px;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-right: 5px;
+  flex-direction: column;
+}
+
+.dirwes img {
+  border-radius: 6px;
+}
+#turing {
+  display: flex;
+  flex: 0.3;
+  height: 2vh;
+  width: 100%;
+  background-color: black;
+}
+
+.wider {
+  display: flex;
+  flex: 1;
+  height: 40vh;
+  width: 95%;
+  margin-top: 7px;
+  background-image: url("https://images8.alphacoders.com/589/thumb-1920-589110.jpg");
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  border-radius: 10px;
+}
+.preven {
+  display: flex;
+  flex: 1;
+  height: 40vh;
+  width: 80%;
+
+  margin-bottom: 10px;
+  margin-left: 10%;
+  border-radius: 10px;
+  font-family: "JetBrains", monospace;
+}
+#pager {
+  font-family: "JetBrains", monospace;
+  font-size: 35px;
+  font-weight: bold;
+}

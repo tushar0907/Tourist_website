@@ -1,0 +1,267 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito&family=Ubuntu:ital,wght@0,500;1,400&display=swap");
+
+.box {
+  display: flex;
+  flex: 1;
+  height: 100vh;
+  width: 70%;
+  flex-direction: column;
+
+  margin-left: 300px;
+}
+
+.one {
+  display: flex;
+  flex: 0.2;
+  height: 10vh;
+  width: auto;
+  font-family: "Nunito", sans-serif;
+  justify-content: center;
+  font-size: 22px;
+}
+
+.two {
+  display: flex;
+  width: auto;
+  flex-direction: row;
+  height: 50%;
+}
+
+.three {
+  display: flex;
+  width: auto;
+
+  margin-bottom: 60px;
+
+  height: 40%;
+}
+
+.four {
+  display: flex;
+  height: 60%;
+
+  width: auto;
+}
+
+.boxx {
+  display: flex;
+  flex: 1;
+  width: auto;
+  height: 60%;
+
+  flex-direction: row;
+  margin-bottom: 10px;
+}
+
+.comp {
+  display: flex;
+  flex: 1;
+  height: 132%;
+  width: auto;
+  background-image: url("https://cdn.vox-cdn.com/thumbor/iF8iwZ_ArRjFl0YUgo_So6BnVWA=/0x0:500x333/1200x0/filters:focal(0x0:500x333):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/15947328/JTP_3926.jpg");
+  background-size: cover;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+.stru {
+  display: flex;
+  flex: 1;
+  height: 100%;
+  width: auto;
+  background-image: url("https://cdn.vox-cdn.com/thumbor/5Wr2vfJ0tPJ4Xod66KwkpDrzTPc=/0x0:920x613/1200x800/filters:focal(387x234:533x380)/cdn.vox-cdn.com/uploads/chorus_image/image/63203796/JTP_3922.0.0.0.jpg");
+  background-size: cover;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 10px;
+}
+
+.strue {
+  display: flex;
+  flex: 1;
+  height: 133%;
+  width: auto;
+  background-image: url("https://cdn.vox-cdn.com/thumbor/5Wr2vfJ0tPJ4Xod66KwkpDrzTPc=/0x0:920x613/1200x800/filters:focal(387x234:533x380)/cdn.vox-cdn.com/uploads/chorus_image/image/63203796/JTP_3922.0.0.0.jpg");
+  background-size: cover;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+.wide {
+  display: flex;
+  flex: 1;
+  height: 78%;
+  width: auto;
+  background-image: url("https://cdn.thecoolist.com/wp-content/uploads/2016/12/Bruges-Belgium-beautiful-city.jpg");
+  background-size: cover;
+  margin-right: 10px;
+  border-radius: 10px;
+  margin-top: 12.8px;
+}
+
+.sub {
+  display: flex;
+  flex: 1;
+  height: 84%;
+  width: auto;
+  transition: 1s ease-in-out;
+  background-image: url("https://www.thewowstyle.com/wp-content/uploads/2015/01/most-beautiful-cities-41.jpg");
+  background-size: cover;
+  margin-right: 10px;
+  margin-left: 10px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.unk {
+  display: flex;
+  flex: 1;
+  height: 113%;
+  width: auto;
+  transition: 1s ease-in-out;
+  background-image: url("https://www.thewowstyle.com/wp-content/uploads/2015/01/most-beautiful-cities-41.jpg");
+  background-size: cover;
+  margin-right: 10px;
+  margin-left: 10px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.sub:hover {
+  background-size: 150% 150%;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.sub:hover .over {
+  display: flex;
+}
+
+.sub .over {
+  display: none;
+  transition: 1s ease-in-out;
+  width: 100%;
+  flex: 1;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.sup {
+  display: flex;
+  flex: 1;
+  height: 14vh;
+  width: auto;
+
+  flex-direction: row;
+}
+
+.supp {
+  display: flex;
+  flex: 1;
+  height: 17vh;
+  width: auto;
+  margin-top: 5px;
+
+  flex-direction: row;
+}
+
+.pree {
+  display: flex;
+  flex: 1;
+  height: 150%;
+  width: auto;
+  background-image: url("https://wallpaperaccess.com/full/184241.jpg");
+  background-size: cover;
+  margin-right: 10px;
+  border-radius: 10px;
+}
+
+.stru {
+  display: flex;
+  flex: 1;
+  height: 150%;
+  width: auto;
+  background-image: url("https://www.easemytrip.com/travel/img/world-beautiful-cities.jpg");
+  background-size: cover;
+  margin-right: 10px;
+  border-radius: 10px;
+}
+
+.portion {
+  display: flex;
+  flex: 1;
+  height: 168%;
+  width: auto;
+  background-image: url("https://wallpaperaccess.com/full/184241.jpg");
+  background-size: cover;
+  margin-right: 10px;
+  border-radius: 10px;
+  margin-top: 5px;
+}
+
+.structure {
+  display: flex;
+  flex: 1;
+  height: 174%;
+  width: auto;
+  background-image: url("https://www.easemytrip.com/travel/img/world-beautiful-cities.jpg");
+  background-size: cover;
+  margin-right: 10px;
+  border-radius: 10px;
+}
+
+#per {
+  justify-content: center;
+  color: white;
+  margin-top: 180px;
+}
+
+#par {
+  justify-content: center;
+  color: white;
+  margin-top: 180px;
+}
+
+#sent {
+  justify-content: center;
+  color: white;
+  margin-top: 180px;
+}
+
+#pti {
+  justify-content: center;
+  color: white;
+  margin-top: 180px;
+}
+
+#cri {
+  justify-content: center;
+  color: white;
+  margin-top: 180px;
+}
+
+#des {
+  justify-content: center;
+  color: white;
+  margin-top: 180px;
+}
+
+#select {
+  justify-content: center;
+  color: white;
+  margin-top: 180px;
+}
+
+#test {
+  justify-content: center;
+  color: white;
+  margin-top: 180px;
+}
+
+#ok {
+  justify-content: center;
+  color: white;
+  margin-top: 180px;
+}

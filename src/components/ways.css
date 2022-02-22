@@ -1,0 +1,96 @@
+.portew {
+  display: flex;
+  flex: 1;
+  height: 40vh;
+  width: 95%;
+  margin-top: 7px;
+  background-image: url("https://img.wallpapersafari.com/desktop/1680/1050/56/48/JFWpxa.jpg");
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  border-radius: 10px;
+}
+
+#fino {
+  display: flex;
+  flex: 0.6;
+  height: 7vh;
+  width: auto;
+  background-color: rgba(87, 134, 187, 0.5);
+  margin-top: 300px;
+  margin-left: 1000px;
+  backdrop-filter: blur(4px);
+  border-radius: 5px;
+  font-family: "Ubuntu", sans-serif;
+  text-align: center;
+  color: rgb(209, 107, 39);
+  font-size: 30px;
+}
+.line {
+  display: flex;
+  flex: 1;
+  height: 80vh;
+  width: 56%;
+
+  margin-left: 400px;
+  flex-direction: column;
+}
+
+.lorm {
+  display: flex;
+  flex: 0.6;
+  height: 30vh;
+  width: auto;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+}
+.norm {
+  display: flex;
+  flex: 1;
+  height: 30vh;
+  width: auto;
+  flex-direction: column;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+}
+.store {
+  display: flex;
+  flex: 1.7;
+  height: 30vh;
+  width: auto;
+  background-image: url("https://cdn.wallpapersafari.com/87/51/c8tEmO.jpg");
+  background-size: cover;
+  border-radius: 10px;
+}
+.tert {
+  display: flex;
+  flex: 0.6;
+  height: 30vh;
+  width: auto;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+  margin-left: 280px;
+  margin-top: 20px;
+}
+
+.reflux {
+  display: flex;
+  flex: 1;
+  height: 30vh;
+  width: auto;
+  flex-direction: column;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+  margin-top: -150px;
+}
+.retid {
+  display: flex;
+  flex: 1.7;
+  height: 60vh;
+  width: 60%;
+  background-image: url("https://i.pinimg.com/originals/8e/cd/25/8ecd25b4edb5252b5fbdb7b274fe2a27.jpg");
+  background-size: cover;
+  border-radius: 10px;
+  margin-left: 350px;
+}

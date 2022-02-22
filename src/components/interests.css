@@ -1,0 +1,190 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,500;1,400&display=swap");
+
+.flex {
+  display: flex;
+  flex: 1;
+  height: 10vh;
+  width: auto;
+  margin-bottom: 5px;
+
+  margin-top: -24px;
+}
+
+#texxt {
+  margin-left: 850px;
+  margin-bottom: 200px;
+  font-size: 40px;
+  font-family: "Ubuntu", sans-serif;
+}
+
+.element {
+  display: flex;
+  flex: 1;
+  height: 25vh;
+  width: auto;
+
+  margin-top: 30px;
+  margin-left: 300px;
+  margin-right: 270px;
+  flex-direction: row;
+}
+
+.six {
+  display: flex;
+  flex: 1;
+  background-image: url("https://gaijinpot.scdn3.secure.raxcdn.com/app/uploads/sites/4/2018/05/Yasaka-Pagoda-Kyoto-at-sunset-autumn-1024x768.jpg");
+  height: 25vh;
+  background-size: cover;
+  margin-right: 2px;
+  border-radius: 10px;
+}
+
+.seven {
+  display: flex;
+  flex: 1;
+  background-image: url("https://idsb.tmgrup.com.tr/ly/uploads/images/2020/12/29/82233.jpg");
+  height: 25vh;
+  margin-right: 2px;
+  border-radius: 10px;
+  background-size: cover;
+}
+.eight {
+  display: flex;
+  flex: 1;
+  background-image: url("https://www.purevacations.com/wp-content/uploads/2019/05/Bridges-of-Prague-Czech-Republic.jpg");
+  height: 25vh;
+  margin-right: 2px;
+  border-radius: 10px;
+  background-size: cover;
+}
+
+.nine {
+  display: flex;
+  flex: 1;
+  background-image: url("https://lp-cms-production.imgix.net/2021-08/shutterstockRF_300856853.jpg?auto=format&fit=crop&sharp=10&vib=20&ixlib=react-8.6.4&w=850");
+  height: 25vh;
+  margin-right: 2px;
+  border-radius: 10px;
+  background-size: cover;
+}
+
+.cont {
+  display: flex;
+  flex: 1;
+  height: 25vh;
+  width: auto;
+
+  flex-direction: row;
+  margin-left: 300px;
+  margin-right: 270px;
+  margin-top: 10px;
+}
+
+.ten {
+  display: flex;
+  flex: 1;
+  background-image: url("https://static.independent.co.uk/s3fs-public/thumbnails/image/2019/10/17/10/istock-1028621910.jpg?width=640&auto=webp&quality=75");
+  height: 25vh;
+  margin-right: 2px;
+  border-radius: 10px;
+  background-size: cover;
+}
+.eleven {
+  display: flex;
+  flex: 1;
+  background-image: url("https://a.cdn-hotels.com/cos/heroimage/Rome_0_110843582.jpg?impolicy=fcrop&w=536&h=384&q=high");
+  height: 25vh;
+  margin-right: 2px;
+  border-radius: 10px;
+  background-size: cover;
+}
+.twelve {
+  display: flex;
+  flex: 1;
+  background-image: url("https://media.cntraveler.com/photos/5fd0def5013df4de80687ce3/master/w_4500,h_3000,c_limit/BestCitiesInTheWorld-2020-Zurich,%20Switzerland-GettyImages-483262091.jpg");
+  height: 25vh;
+  margin-right: 2px;
+  border-radius: 10px;
+  background-size: cover;
+}
+.thirteen {
+  display: flex;
+  flex: 1;
+  background-image: url("https://images.blacktomato.com/2016/11/Zurich-Winter-1.jpg?auto=compress%2Cformat&fit=crop&h=424&ixlib=php-3.3.0&w=722&s=208cc82598d41857efa6f998723fc735");
+  height: 25vh;
+  margin-right: 2px;
+  border-radius: 10px;
+  background-size: cover;
+}
+.file {
+  display: flex;
+  flex: 1;
+  height: 25vh;
+  width: auto;
+
+  flex-direction: row;
+  margin-left: 300px;
+  margin-right: 270px;
+  margin-top: 10px;
+}
+
+.fourteen {
+  display: flex;
+  flex: 1;
+  background-image: url("https://static.straitstimes.com.sg/s3fs-public/articles/2019/11/15/jtgardens151124.jpg");
+  height: 25vh;
+  margin-right: 2px;
+  border-radius: 10px;
+  background-size: cover;
+}
+.fifteen {
+  display: flex;
+  flex: 1;
+  background-image: url("https://www.ladbible.com/cdn-cgi/image/width=720,quality=70,format=jpeg,fit=pad,dpr=1/https%3A%2F%2Fs3-images.ladbible.com%2Fs3%2Fcontent%2F3d43a3b36143963c0f8ede8e76262b52.png");
+  height: 25vh;
+  margin-right: 2px;
+  border-radius: 10px;
+  background-size: cover;
+}
+
+.sixteen {
+  display: flex;
+  flex: 1;
+  background-image: url("https://drscdn.500px.org/photo/17889709/m%3D900/5124cb76381b81fdb84c037617998dd9");
+  height: 25vh;
+  margin-right: 2px;
+  border-radius: 10px;
+  background-size: cover;
+}
+.seventeen {
+  display: flex;
+  flex: 1;
+  background-image: url("https://i.insider.com/5db1eb92045a31175f283ad8?width=1000&format=jpeg&auto=webp");
+  height: 25vh;
+  margin-right: 2px;
+  border-radius: 10px;
+  background-size: cover;
+}
+
+#no,
+#am,
+#up,
+#ou,
+#gr,
+#mh,
+#rn,
+#hb,
+#nd,
+#fd,
+#sv,
+#dr {
+  display: flex;
+  flex: 1;
+  height: 5vh;
+  margin-top: 170px;
+  background-color: rgba(39, 223, 223, 0.466);
+  backdrop-filter: blur(10px);
+  border-radius: 9px;
+  font-size: 30px;
+  color: white;
+}
